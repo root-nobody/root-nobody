@@ -12,10 +12,7 @@ The languages I worked on include `Python`
 ![](https://img.shields.io/badge/Mohammad-%2300fcd4)
 
 <a href="https://t.me/tkcer">
-
-	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
-
+<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
 </a>
-
 <br>
 
